@@ -120,3 +120,5 @@ function showRandomQuote() {
   }
 }
 // Event listeners for form submission, edit, and delete clicks
+renderQuotes(); 
+showRandomQuote();
